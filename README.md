@@ -13,10 +13,11 @@ A lite and fast tool for reading pdf files.
 - اشتراک‌گذاری فایل PDF
 
 ## 📥 نصب
-برای نصب، فایل APK را از بخش [Releases](https://github.com/username/PDF-Reader/releases) دانلود کنید.
+برای نصب، فایل APK را از بخش [Releases](https://github.com/Mohammedbaraty/PDF-Reader-lite/releases) دانلود کنید.
 
 ## 🛠️ نحوه ساخت
-این برنامه با استفاده از APK Builder ساخته شده است.
+این برنامه با ابزار های ساده اندروید توسعه داده شده است.
 
-## 📄 لایسنس
-این پروژه تحت لایسنس MIT منتشر شده است.
+## 📄 لالایسنسین پروژه تحت لایسنس MIT منتشر شدشداست.
+
+«توسعه دهنده: محمد براتی»
