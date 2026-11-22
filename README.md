@@ -2,7 +2,7 @@
 # PDF-Reader-lite
 A lite and fast tool for reading pdf files.
 # PDF Reader
-
+<p dir=rtl>
 یک PDF خوان سریع، سبک و کاربردی برای اندروید.
 
 ## ✨ امکانات
@@ -23,3 +23,4 @@ A lite and fast tool for reading pdf files.
  پروژه تحت لایسنس MIT منتشر شده است.
 
 «توسعه دهنده: محمد براتی»
+</p>
