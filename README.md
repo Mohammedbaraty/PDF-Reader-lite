@@ -22,3 +22,5 @@ A lite and fast tool for reading pdf files.<br>
  پروژه تحت لایسنس MIT منتشر شده است.
 
 «توسعه دهنده: محمد براتی»
+
+<head><meta name="google-site-verification" content="Xosaao1pZ8laLtTmwv4Vw4lZ2T7FMWzsWL3CFnUESwk" /><meta name="robots" content="index, follow" /></head>
