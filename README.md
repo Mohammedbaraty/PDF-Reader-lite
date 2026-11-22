@@ -1,7 +1,7 @@
-<head><meta name="google-site-verification" content="Xosaao1pZ8laLtTmwv4Vw4lZ2T7FMWzsWL3CFnUESwk" /><meta name="robots" content="index, follow" /></head>
-# PDF-Reader-lite <br>
+
+# PDF-Reader-lite 
 A lite and fast tool for reading pdf files.<br>
-# PDF Reader<br>
+# PDF Reader
 یک PDF خوان سریع، سبک و کاربردی برای اندروید.<br><br>
 
 ## ✨ امکانات
